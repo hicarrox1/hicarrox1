@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm leo</h1>
 <h3 align="center">I am student from france</h3>
 
-- 🔭 I’m currently doing my first year in **in BUT INFORMATIQUE at limoges**
 - `🌍` I'm based in **Limoges**.
 - `🎓` I'm currently studying at the **University Institute of Technology of Limoges** (Bachelor computer science).
 
