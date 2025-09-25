@@ -4,10 +4,17 @@
 - `🌍` I'm based in **Limoges**.
 - `🎓` I'm currently studying at the **University Institute of Technology of Limoges** (Bachelor computer science).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:leo.tanguy@etu.unilim.fr" target="_blank"> leo.tanguy@etu.unilim.fr</a>
-</p>
+
+## **Connect with me:**
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/l%C3%A9o-tanguy-12b242337/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:leo.tanguy@etu.unilim.fr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
 ## **My skills**
 
@@ -44,4 +51,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white)
 ![Oracle VM Virtual Box](https://img.shields.io/badge/Oracle%20VM%20Virtual%20Box-C3C7D3?style=flat&logo=oracle&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicarrox1&show_icons=true&locale=en&layout=compact" alt="hicarrox1" /></p>
+## **More**
+<p align="center">
+<a href="https://leotanguy.byethost5.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" </a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicarrox1&show_icons=true&locale=en&layout=compact" alt="hicarrox1" /></p>
