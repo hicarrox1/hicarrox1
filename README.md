@@ -52,8 +52,5 @@
 ![Oracle VM Virtual Box](https://img.shields.io/badge/Oracle%20VM%20Virtual%20Box-C3C7D3?style=flat&logo=oracle&logoColor=white)
 
 ## **More**
-<p align="center">
-<a href="https://leotanguy.byethost5.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" </a>
-</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicarrox1&show_icons=true&locale=en&layout=compact" alt="hicarrox1" /></p>
